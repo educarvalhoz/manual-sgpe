@@ -1,0 +1,22 @@
+site_name: SGPE-Manual
+site_url: https://sitename.example
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Guia do CSP:
+      - Introdução: csp/introducao_csp.md
+      - Instalação: guia/instalacao.md
+      - Exemplos: guia/exemplos.md
+
+  - Guia do Professor:
+      - Endpoints: api/endpoints.md
+      - Autenticação: api/autenticação.md
+      
+  - Guia do Aluno:
+      - Endpoints: api/endpoints.md
+      - Autenticação: api/autenticação.md
+      
+      
+  - Sobre: sobre.md
