@@ -5,8 +5,6 @@ Bem-vindo ao <b>Sistema de Gestão de Projetos de Ensino (SGPE)</b>!
 Este manual tem como objetivo orientar <b>coordenadores, professores e alunos</b> no uso das funcionalidades do sistema, apresentando instruções detalhadas para cada nível de acesso.
 </p>
 
----
-
 ## Objetivo do Sistema
 
 <p align="justify">
@@ -23,8 +21,6 @@ O <b>SGPE</b> é uma aplicação web desenvolvida para <b>gerenciar projetos de 
 <p align="justify">
 O sistema centraliza todas as etapas em uma plataforma única, promovendo <b>agilidade, organização e transparência</b>.
 </p>
-
----
 
 ## Público-Alvo
 

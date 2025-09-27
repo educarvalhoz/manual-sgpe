@@ -7,8 +7,8 @@ nav:
   - Início: index.md
   - Guia do CSP:
       - Introdução: csp/introducao_csp.md
-      - Instalação: guia/instalacao.md
-      - Exemplos: guia/exemplos.md
+      - Acesso ao Sistema: csp/login_csp.md
+      - Tela Inicial: csp/tela_inicial_csp.md
 
   - Guia do Professor:
       - Endpoints: api/endpoints.md
