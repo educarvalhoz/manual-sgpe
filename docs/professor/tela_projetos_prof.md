@@ -31,9 +31,28 @@ A Tela de Projetos oferece controle completo sobre todos os projetos, desde a vi
 </ul>
 </p>
 
+<p align="justify">
+<b>Cadastrar Projetos: </b>
+
+O cadastro de um novo projeto é simples e rápido: basta clicar no botão <em>Cadastrar</em> e preencher as informações solicitadas.
+Essa funcionalidade permite iniciar o registro de um projeto do zero, garantindo que todos os campos necessários sejam informados corretamente.
+</p>
 
  [➡ Tela Cadastrar Projetos](tela_cadastrar_projetos_prof.md)
 
+<p align="justify">
+<b>Editar Projetos: </b>
+
+Para editar, é necessário primeiro selecionar um projeto existente na lista.
+Após a seleção, basta clicar em <em>Editar</em> para que o sistema carregue automaticamente todas as informações já cadastradas.
+</p>
+
+<p align="justify">
+O professor pode então revisar, atualizar ou complementar os dados, incluindo título, descrição, arquivos PDF ou outros documentos.
+Esse fluxo garante que nenhuma alteração seja feita por engano em projetos errados, oferecendo maior segurança e organização.
+</p>
+
+[➡ Tela Editar Projetos](tela_editar_projetos_prof.md)
  
 <p align="justify">A tela evita a exclusão acidental de projetos e garante que o professor tenha certeza antes de remover informações importantes do sistema.</p>
 
