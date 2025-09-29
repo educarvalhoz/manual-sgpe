@@ -31,20 +31,20 @@ nav:
       - Cadastrar Template: csp/cadastrar_template_csp.md
 
   - Guia do Professor:
-    - Introdução: professor/introducao_prof.md
-    - Acesso ao Sistema: professor/login_prof.md
-    - Tela Cadastro Professor: professor/tela_cadastro_prof.md
-    - Tela Inicial: professor/tela_inicial_prof.md
-    - Tela Home: professor/tela_home_prof.md
-    - Tela Editais: professor/tela_editais_prof.md
-    - Tela Projetos: professor/tela_projetos_prof.md
-    - Tela Cadastrar Projetos: professor/tela_cadastrar_projetos_prof.md
-    - Tela Correções de Projetos: professor/tela_corrigir_projetos_prof.md
-    - Tela Relatórios: professor/tela_relatorios_prof.md
-    - Tela Alunos em Projetos: professor/tela_alunos_projetos_prof.md
-    - Tela Entrevistas Pendentes: professor/tela_entrevistas_pendentes_prof.md
-    - Tela Baixar Templates de Relatórios: professor/tela_templates_prof.md
-    - Tela Perfil: professor/tela_perfil_prof.md
+      - Introdução: professor/introducao_prof.md
+      - Acesso ao Sistema: professor/login_prof.md
+      - Tela Cadastro Professor: professor/tela_cadastro_prof.md
+      - Tela Inicial: professor/tela_inicial_prof.md
+      - Tela Home: professor/tela_home_prof.md
+      - Tela Editais: professor/tela_editais_prof.md
+      - Tela Projetos: professor/tela_projetos_prof.md
+      - Tela Cadastrar Projetos: professor/tela_cadastrar_projetos_prof.md
+      - Tela Correções de Projetos: professor/tela_corrigir_projetos_prof.md
+      - Tela Relatórios: professor/tela_relatorios_prof.md
+      - Tela Alunos em Projetos: professor/tela_alunos_projetos_prof.md
+      - Tela Entrevistas Pendentes: professor/tela_entrevistas_pendentes_prof.md
+      - Tela Baixar Templates de Relatórios: professor/tela_templates_prof.md
+      - Tela Perfil: professor/tela_perfil_prof.md
 
   - Guia do Aluno:
     - Endpoints: api/endpoints.md
