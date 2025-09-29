@@ -9,11 +9,11 @@ No primeiro acesso ao CSP, o sistema já disponibiliza um usuário padrão previ
 
 </p>
 
-<p align="center">z
+<p align="center">
   <img src="/csp/imagens_csp/login_csp.jpg" alt="Tela de Login" width="800">
 </p>
 
-## Passo a passo para realizar o login:
+## Passo a passo para realizar o login
 
 <ol>
   <li>
