@@ -1,7 +1,7 @@
 #Tela Cadastrar Projetos do Sistema (Professor)
 
 <p align="justify">
-Essa tela centraliza o cadastro de projetos para avaliação, garantindo que todas as informações necessárias estejam completas, facilitando o processo de análise pelo CSP e reduzindo erros ou retrabalho.
+A tela <em> Cadastrar Projetos </em>centraliza o cadastro de projetos para avaliação, garantindo que todas as informações necessárias estejam completas, facilitando o processo de análise pelo CSP e reduzindo erros ou retrabalho.
 </p>
 
 <p align="center">

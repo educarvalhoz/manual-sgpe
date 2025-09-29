@@ -19,6 +19,7 @@ nav:
       - Tela Editais: professor/tela_editais_prof.md
       - Tela Projetos: professor/tela_projetos_prof.md
       - Tela Cadastrar Projetos: professor/tela_cadastrar_projetos_prof.md
+      - Tela Editar Projetos: professor/tela_editar_projetos_prof.md
       - Tela Correções de Projetos: professor/tela_corrigir_projetos_prof.md
       - Tela Relatórios: professor/tela_relatorios_prof.md
       - Tela Alunos em Projetos: professor/tela_alunos_projetos_prof.md
