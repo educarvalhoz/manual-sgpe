@@ -1,0 +1,37 @@
+# Nome do workflow que aparecerá na aba "Actions" do GitHub
+name: Deploy MkDocs to GitHub Pages
+
+# Gatilho: rodar sempre que houver um push para o branch 'main'
+on:
+  push:
+    branches:
+      - main # Ou 'master', dependendo do seu repositório
+
+# Permissões necessárias para que a Action possa publicar no GitHub Pages
+permissions:
+  contents: write
+
+# Tarefas a serem executadas
+jobs:
+  deploy:
+    runs-on: ubuntu-latest # Usar a última versão do Ubuntu como ambiente
+    steps:
+      # 1. Baixa o código do seu repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Configura o ambiente Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      # 3. Instala as dependências (MkDocs e o tema que você usa)
+      - name: Install dependencies
+        run: |
+          pip install mkdocs
+          pip install mkdocs-material # Adicione aqui outros plugins que você usa
+
+      # 4. Faz o deploy usando o comando do MkDocs
+      - name: Deploy
+        run: mkdocs gh-deploy --force --clean
