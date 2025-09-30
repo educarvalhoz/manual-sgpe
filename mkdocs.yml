@@ -48,7 +48,7 @@ nav:
 
   - Guia do Aluno:
     - Introdução: aluno/introducao_aluno.md
-    - Acesso e Login: aluno/login_aluno.md
+    - Acesso e Login: aluno/aluno_login.md
     - Tela Inicial (Home): aluno/tela_inicial_aluno.md
     - Editais: aluno/editais_aluno.md
     - Inscrição em Projetos: aluno/inscricoes_aluno.md
@@ -56,6 +56,5 @@ nav:
     - Relatório Mensal: aluno/relatorios_aluno.md
     - Meus Horários: aluno/horarios_aluno.md
     - Baixar Templates: aluno/templates_aluno.md
-    - Perfil do Usuário: aluno/tela_perfil_aluno.md
     
   - Sobre: sobre.md
