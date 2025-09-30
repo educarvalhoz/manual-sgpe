@@ -47,7 +47,6 @@ nav:
       - Tela Perfil: professor/tela_perfil_prof.md
 
   - Guia do Aluno:
-    - Endpoints: api/endpoints.md
-    - Autenticação: api/autenticação.md
+    - Introdução: aluno/introducao_aluno.md
     
   - Sobre: sobre.md
